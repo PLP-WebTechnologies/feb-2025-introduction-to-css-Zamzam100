@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+Your version of the file
+=======
+Incoming changes from the other branch
+>>>>>>> main
 # Advanced HTML5 Elements and Forms
 
 ## Objectives
@@ -24,5 +29,34 @@ Apply multimedia elements such as audio and video.
 # Tasks
 - Create a well-structured HTML5 document.
 - Ensure semantic correctness.
+=======
+# Introduction to CSS
+
+## Objectives
+Link an external CSS file to an HTML document.
+Apply basic styling using selectors.
+Use colors, fonts, and spacing effectively.
+
+## Instructions
+
+Create a style.css file.
+Apply CSS to a HTML page.
+Style elements using:
+Classes and IDs.
+Color and typography.
+Margins, paddings, and borders.
+
+>[!NOTE]
+>  - Include at least:
+>  - Use of 3 selectors
+>  - Style an image
+>  - Margin, Padding & Borders
+>  - Different font
+
+# Tasks
+ - Link an external CSS file.
+ - Apply at least 3 different selectors.
+ - Improve readability and aesthetics.
+>>>>>>> b46c41984e3d1e03538a806a38413d3e5fc2497e
 
 Happy Coding! 💻✨
